@@ -34,6 +34,5 @@ Other:
 - Windows
 
 ## Blogs read
-testerzy.pl(http.//testerzy.pl)
-
-testelka.pl(http.//testerzy.pl)
+testerzy.pl(https://testerzy.pl)
+testelka.pl(https://testerzy.pl)
