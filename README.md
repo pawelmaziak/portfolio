@@ -35,4 +35,5 @@ Other:
 
 ## Blogs read
 testerzy.pl(http.//testerzy.pl)
+
 testelka.pl(http.//testerzy.pl)
