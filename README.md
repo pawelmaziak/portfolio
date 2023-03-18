@@ -7,7 +7,7 @@ Tests:
 - Manual
 - Automation
 - Regression
-- Preparing TC
+- Creating TC
 
 Programing:
 - SQL
@@ -27,9 +27,8 @@ Automation and tools:
 - GIT
 
 Other:
-- Waterfall
 - Agile
-- Linux (CLI)
+- Linux (Command Line)
 - Windows
 
 ## Blogs read
