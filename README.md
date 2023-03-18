@@ -34,6 +34,7 @@ Other:
 
 ## Blogs read
 testelka.pl(https://testelka.pl)
+
 testerzy.pl(https://testerzy.pl)
 
 
