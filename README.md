@@ -11,7 +11,6 @@ Tests:
 
 Programing:
 - SQL
-- Python
 - Java
 
 Automation and tools:
@@ -34,6 +33,8 @@ Other:
 - Windows
 
 ## Blogs read
+testelka.pl(https://testelka.pl)
 testerzy.pl(https://testerzy.pl)
 
-testerka.pl(https://testerka.pl)
+
+
