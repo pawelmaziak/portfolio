@@ -7,6 +7,7 @@ Tests:
 - Manual
 - Automation
 - Regression
+- Performance
 - Creating TC
 
 Programing:
